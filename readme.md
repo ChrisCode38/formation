@@ -1,6 +1,5 @@
 # Git et Github
 
-token : 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
 
 ### Créer un jeton d'accès personnel
 
